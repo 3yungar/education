@@ -1,0 +1,3 @@
+Hello, world!
+Python 3.10 had installed in this distributive.
+Then nessesary libraries was installed in this virtual environment!
